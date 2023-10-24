@@ -120,5 +120,6 @@ Create visual content, such as graphics, images, videos, and animations. These p
 <p>If you want to <b>participate</b> as a contributor to someone else's project, make a pull request or open an issue identifying possible flaws or suggestions for improvements.</p>
 
 ## Relevant Links 
-<p>Do you have questions about how to make a pull request? Watch the summary of our hacktoberfest 2023 presentation (https://youtu.be/3rOes5IWMWs?si=lPM54fsi1EBZG_zL)</p>
+<p>Do you have questions about how to make a pull request? Watch the summary of our hacktoberfest 2023 presentation (Only in portuguese version) (https://youtu.be/3rOes5IWMWs?si=lPM54fsi1EBZG_zL)</p>
+<p>Find more information about hacktboberfest and a guide of how you can participate and win some rewards (https://github.com/mozdevz/Hacktoberfest)</p>
 <p>Other relevant links about what happened at hacktoberfest here in Mozambique in 2023 (https://bit.ly/hacktober-moz-links)</p>
